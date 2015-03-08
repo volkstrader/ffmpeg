@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 
-MAINTAINER HC Softech Inc. hcsoftech@gmail.com
+MAINTAINER HC Softech Inc. <hcsoftech@gmail.com>
 
 # set locale
 RUN locale-gen en_US.UTF-8  
